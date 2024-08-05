@@ -15,12 +15,7 @@ Hi there! Welcome to my repository. I recently completed the **Google Advanced D
   - `Project_6_Machine_Learning_Project`
   - `Capstone_Project`
 
-  
-## Key Features
 
-- **Hands-on Projects**: Real-world projects that helped me practice and apply my data analytics skills.
-- **Detailed Notes**: My summarized notes for quick reference and revision.
-- **Resource Compilation**: A collection of valuable resources that complemented my learning experience.
 
 ## Course Overview
 
