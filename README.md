@@ -53,9 +53,7 @@ Through this program and the projects in this repository, I gained the ability t
 - Develop and deploy machine learning models for predictive analytics.
 - Work on real-world data analytics projects to showcase my skills.
 
-## Getting Started
 
-Feel free to clone this repository and explore the contents:
 
-```bash
-git clone https://github.com/yourusername/google-advanced-data-analytics-professional-certificate.git
+
+
